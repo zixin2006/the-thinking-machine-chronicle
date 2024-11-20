@@ -1,0 +1,1029 @@
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.5.13)  20 NOV 2024 12:11
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**publication
+(./publication.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count184
+\c@chapter=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen141
+)) (/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen142
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count193
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count194
+\leftroot@=\count195
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count196
+\DOTSCASE@=\count197
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen143
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count198
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count199
+\dotsspace@=\muskip16
+\c@parentequation=\count266
+\dspbrk@lvl=\count267
+\tag@help=\toks18
+\row@=\count268
+\column@=\count269
+\maxfields@=\count270
+\andhelp@=\toks19
+\eqnshift@=\dimen144
+\alignsep@=\dimen145
+\tagshift@=\dimen146
+\tagwidth@=\dimen147
+\totwidth@=\dimen148
+\lineht@=\dimen149
+\@envbody=\toks20
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec.sty (/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/usr/local/texlive/2024/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-02-20 L3 programming layer (loader) 
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2024-02-20 L3 backend support: XeTeX
+\g__graphics_track_int=\count271
+\l__pdf_internal_box=\box53
+\g__pdf_backend_object_int=\count272
+\g__pdf_backend_annotation_int=\count273
+\g__pdf_backend_link_int=\count274
+))
+Package: xparse 2024-02-18 L3 Experimental document command parser
+)
+Package: fontspec 2024/02/13 v2.9a Font selection for XeLaTeX and LuaLaTeX
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2024/02/13 v2.9a Font selection for XeLaTeX and LuaLaTeX
+\l__fontspec_script_int=\count275
+\l__fontspec_language_int=\count276
+\l__fontspec_strnum_int=\count277
+\l__fontspec_tmp_int=\count278
+\l__fontspec_tmpa_int=\count279
+\l__fontspec_tmpb_int=\count280
+\l__fontspec_tmpc_int=\count281
+\l__fontspec_em_int=\count282
+\l__fontspec_emdef_int=\count283
+\l__fontspec_strong_int=\count284
+\l__fontspec_strongdef_int=\count285
+\l__fontspec_tmpa_dim=\dimen150
+\l__fontspec_tmpb_dim=\dimen151
+\l__fontspec_tmpc_dim=\dimen152
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (/usr/local/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count286
+\Gm@cntv=\count287
+\c@Gm@tempcnt=\count288
+\Gm@bindingoffset=\dimen153
+\Gm@wd@mp=\dimen154
+\Gm@odd@mp=\dimen155
+\Gm@even@mp=\dimen156
+\Gm@layoutwidth=\dimen157
+\Gm@layoutheight=\dimen158
+\Gm@layouthoffset=\dimen159
+\Gm@layoutvoffset=\dimen160
+\Gm@dimlist=\toks23
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2024/01/21 v0.5y Insert pages of external PDF documents (AM)
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count289
+\calc@Bcount=\count290
+\calc@Adimen=\dimen161
+\calc@Bdimen=\dimen162
+\calc@Askip=\skip53
+\calc@Bskip=\skip54
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count291
+\calc@Cskip=\skip55
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
+\ESO@tempdima=\dimen163
+\ESO@tempdimb=\dimen164
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 274.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+)) (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 107.
+)
+\Gin@req@height=\dimen165
+\Gin@req@width=\dimen166
+)
+\AM@pagewidth=\dimen167
+\AM@pageheight=\dimen168
+\AM@fboxrule=\dimen169
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/pdfpages/ppxetex.def
+File: ppxetex.def 2024/01/21 v0.5y Pdfpages driver for XeTeX (AM)
+)
+\pdfpages@includegraphics@status=\count292
+\AM@pagebox=\box54
+\AM@global@opts=\toks24
+\AM@pagecnt=\count293
+\AM@toc@title=\toks25
+\AM@lof@heading=\toks26
+\c@AM@survey=\count294
+\AM@templatesizebox=\box55
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip56
+\subfigcapskip=\skip57
+\subfigcaptopadj=\dimen170
+\subfigbottomskip=\skip58
+\subfigcapmargin=\dimen171
+\subfiglabelskip=\skip59
+\c@subfigure=\count295
+\c@lofdepth=\count296
+\c@subtable=\count297
+\c@lotdepth=\count298
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/local/texlive/2024/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip60
+\subfig@bottom=\skip61
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/emptypage/emptypage.sty
+Package: emptypage 2010/05/30 v1.2 Suppress page numbers and headings on empty pages
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count299
+\float@exts=\toks27
+\float@box=\box56
+\@float@everytoks=\toks28
+\@floatcapt=\box57
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+)
+
+Package fontspec Info: Font family 'Palatino(0)' created for font 'Palatino'
+(fontspec)             with options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"Palatino/AAT:mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"Palatino/B/AAT:mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"Palatino/I/AAT:mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"Palatino/BI/AAT:mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+
+
+LaTeX Warning: Unused global option(s):
+    [11p].
+
+No file publication.aux.
+\openout1 = `publication.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 24.
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 24.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 24.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 24.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 24.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 24.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 24.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 24.
+LaTeX Font Info:    Redeclaring math accent \check on input line 24.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 24.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 24.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 24.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 24.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 24.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/Palatino(0)/m/n on input line 24.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 24.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/Palatino(0)/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/Palatino(0)/m/n --> TU/Palatino(0)/m/n on input line 24.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/Palatino(0)/m/it on input line 24.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/Palatino(0)/b/n on input line 24.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 24.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/Palatino(0)/m/n --> TU/Palatino(0)/b/n on input line 24.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/Palatino(0)/b/it on input line 24.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 24.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 24.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=418.25368pt
+* \textheight=591.5302pt
+* \oddsidemargin=17.3571pt
+* \evensidemargin=17.3571pt
+* \topmargin=-0.93083pt
+* \headheight=12.0pt
+* \headsep=18.06749pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=69.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PDF (HO)
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
+))
+File: tmc_cover.pdf Graphic file (type pdf)
+<use tmc_cover.pdf>
+File: tmc_cover.pdf Graphic file (type pdf)
+<use tmc_cover.pdf>
+File: tmc_cover.pdf Graphic file (type pdf)
+<use tmc_cover.pdf, page 1>
+File: tmc_cover.pdf Graphic file (type pdf)
+<use tmc_cover.pdf, page 1>
+File: tmc_cover.pdf Graphic file (type pdf)
+<use tmc_cover.pdf, page 1>
+File: tmc_cover.pdf Graphic file (type pdf)
+<use tmc_cover.pdf, page 1>
+File: tmc_cover.pdf Graphic file (type pdf)
+<use tmc_cover.pdf, page 1>
+ [1
+
+
+]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 27.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 27.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Missing character: There is no 郁 (U+90C1) in font Palatino Bold/AAT:mapping=tex-text;!
+Missing character: There is no 孜 (U+5B5C) in font Palatino Bold/AAT:mapping=tex-text;!
+Missing character: There is no 欣 (U+6B23) in font Palatino Bold/AAT:mapping=tex-text;!
+[1
+
+]
+No file publication.toc.
+\tf@toc=\write3
+\openout3 = `publication.toc'.
+
+[1
+
+] [2
+
+]
+Chapter 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--45
+
+ []
+
+File: images/tbto_11.png Graphic file (type bmp)
+<images/tbto_11.png>
+
+Overfull \hbox (2.13097pt too wide) in paragraph at lines 50--51
+ [][] 
+ []
+
+[3
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 57--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--69
+
+ []
+
+
+Overfull \hbox (3.97328pt too wide) in paragraph at lines 70--72
+[]\TU/Palatino(0)/m/n/10 Suppose there are two categories representing position and temperature. For example, $\OML/cmm/m/it/10 te\OT1/cmr/m/n/10 (3) =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--72
+
+ []
+
+LaTeX Font Info:    Font shape `TU/Palatino(0)/m/sl' in size <10> not available
+(Font)              Font shape `TU/Palatino(0)/m/it' tried instead on input line 72.
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 73--75
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--88
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 104--107
+
+ []
+
+File: images/tbto_12.png Graphic file (type bmp)
+<images/tbto_12.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--121
+
+ []
+
+File: images/tbto_13.png Graphic file (type bmp)
+<images/tbto_13.png>
+[6]
+Overfull \hbox (27.48773pt too wide) in paragraph at lines 129--131
+[]\TU/Palatino(0)/m/n/10 Let’s consider a simple example as shown above. First, take the expression $\OML/cmm/m/it/10 N[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 z[]\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 ^^Q \OML/cmm/m/it/10 Pr[]N[]; N[]; z[]\OT1/cmr/m/n/10 )$\TU/Palatino(0)/m/n/10 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--131
+
+ []
+
+File: images/tbto_14.png Graphic file (type bmp)
+<images/tbto_14.png>
+
+Overfull \hbox (33.85057pt too wide) in paragraph at lines 136--137
+ [][] 
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 156--158
+
+ []
+
+File: images/tbto_15.png Graphic file (type bmp)
+<images/tbto_15.png>
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 173--175
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--178
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--181
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--184
+
+ []
+
+File: images/tbto_16.png Graphic file (type bmp)
+<images/tbto_16.png>
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 196--197
+
+ []
+
+File: images/tbto_17.png Graphic file (type bmp)
+<images/tbto_17.png>
+
+Overfull \hbox (3.4748pt too wide) in paragraph at lines 204--205
+[]\TU/Palatino(0)/m/n/10 Based on the previous conclusions, $\OML/cmm/m/it/10 S[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 p[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 z[]\OT1/cmr/m/n/10 ))$\TU/Palatino(0)/m/n/10 , $\OML/cmm/m/it/10 S[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 p[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 z[]\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 _ \OML/cmm/m/it/10 p[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 z[]\OT1/cmr/m/n/10 ))$\TU/Palatino(0)/m/n/10 , $\OML/cmm/m/it/10 S[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 p[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 z[]\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 ^
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--209
+
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
+
+ []
+
+File: images/tbto_18.png Graphic file (type bmp)
+<images/tbto_18.png>
+File: images/tbto_19.png Graphic file (type bmp)
+<images/tbto_19.png>
+[11]
+Overfull \hbox (0.44159pt too wide) in paragraph at lines 247--248
+\TU/Palatino(0)/m/n/10 extinction and learning are equivalent to absolute inhibition. If these two conclusions are proven,
+ []
+
+
+Overfull \hbox (15.99492pt too wide) in paragraph at lines 258--259
+\TU/Palatino(0)/m/n/10 New Scientist. https://www.newscientist.com/article/2279937-google-has-mapped-a-piece-
+ []
+
+[12]
+Chapter 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--278
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 279--280
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 281--282
+
+ []
+
+[13
+
+]
+File: images/tbto_21.png Graphic file (type bmp)
+<images/tbto_21.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--289
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--291
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--293
+
+ []
+
+[14]
+File: images/tbto_22.png Graphic file (type bmp)
+<images/tbto_22.png>
+ [15]
+Underfull \hbox (badness 10000) in paragraph at lines 327--328
+
+ []
+
+File: images/tbto_23.png Graphic file (type bmp)
+<images/tbto_23.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 347--348
+
+ []
+
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 349--350
+
+ []
+
+File: images/tbto_24.png Graphic file (type bmp)
+<images/tbto_24.png>
+[17] [18]
+File: images/tbto_25.png Graphic file (type bmp)
+<images/tbto_25.png>
+
+Overfull \hbox (6.71288pt too wide) in paragraph at lines 398--399
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 401--402
+
+ []
+
+File: images/tbto_26.png Graphic file (type bmp)
+<images/tbto_26.png>
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 417--418
+
+ []
+
+File: images/tbto_27.png Graphic file (type bmp)
+<images/tbto_27.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 431--432
+
+ []
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 450--451
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 452--453
+
+ []
+
+[21]
+Chapter 3.
+
+LaTeX Warning: Citation `Rumelhart1986' on page 22 undefined on input line 461.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 465--466
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 467--468
+
+ []
+
+[22
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 473--474
+
+ []
+
+File: images/tbto_31.png Graphic file (type bmp)
+<images/tbto_31.png>
+[23]
+File: images/tbto_32.png Graphic file (type bmp)
+<images/tbto_32.png>
+ [24]
+Underfull \hbox (badness 10000) in paragraph at lines 506--508
+
+ []
+
+File: images/tbto_33.png Graphic file (type bmp)
+<images/tbto_33.png>
+File: images/tbto_36.png Graphic file (type bmp)
+<images/tbto_36.png>
+
+Overfull \hbox (10.41585pt too wide) in paragraph at lines 520--521
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--524
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 525--526
+
+ []
+
+[25]
+Underfull \hbox (badness 10000) in paragraph at lines 527--528
+
+ []
+
+File: images/tbto_37.png Graphic file (type bmp)
+<images/tbto_37.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--539
+
+ []
+
+[26]
+Underfull \hbox (badness 10000) in paragraph at lines 552--553
+
+ []
+
+
+Overfull \hbox (36.69495pt too wide) in paragraph at lines 554--555
+[]\TU/Palatino(0)/m/n/10 At the end of the paper, the authors note: the forward-propagation–loss-calculation–backpropagation
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 554--555
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 556--557
+
+ []
+
+
+Overfull \hbox (3.12561pt too wide) in paragraph at lines 558--559
+[]\TU/Palatino(0)/m/n/10 While these are profound questions, separating \TU/Palatino(0)/b/n/10 artificial intelligence \TU/Palatino(0)/m/n/10 from \TU/Palatino(0)/b/n/10 intelligence \TU/Palatino(0)/m/n/10 might
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 558--559
+
+ []
+
+[27] [28]
+Chapter 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 589--591
+
+ []
+
+[29
+
+]
+File: images/tbto_41.png Graphic file (type bmp)
+<images/tbto_41.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 600--602
+
+ []
+
+[30]
+File: images/tbto_42.png Graphic file (type bmp)
+<images/tbto_42.png>
+File: images/tbto_44.png Graphic file (type bmp)
+<images/tbto_44.png>
+ [31]
+Underfull \hbox (badness 10000) in paragraph at lines 636--637
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 663--664
+
+ []
+
+[32]
+Underfull \hbox (badness 10000) in paragraph at lines 665--666
+
+ []
+
+File: images/tbto_45.png Graphic file (type bmp)
+<images/tbto_45.png>
+[33]
+Underfull \hbox (badness 10000) in paragraph at lines 689--690
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 691--692
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 698--699
+
+ []
+
+[34]
+File: images/tbto_46.png Graphic file (type bmp)
+<images/tbto_46.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 724--725
+
+ []
+
+File: images/tbto_47.png Graphic file (type bmp)
+<images/tbto_47.png>
+[35]
+Underfull \hbox (badness 10000) in paragraph at lines 732--733
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 734--735
+
+ []
+
+File: images/tbto_48.png Graphic file (type bmp)
+<images/tbto_48.png>
+[36]
+Underfull \hbox (badness 10000) in paragraph at lines 746--747
+
+ []
+
+
+Overfull \hbox (6.88147pt too wide) in paragraph at lines 748--749
+\TU/Palatino(0)/m/n/10 tional functions such as spatial pattern normalization or completion would be needed—somewhat
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 748--749
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 754--755
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--757
+
+ []
+
+[37] [38]
+Chapter 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 772--773
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 776--777
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 778--779
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 780--781
+
+ []
+
+[39
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 782--783
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 806--807
+
+ []
+
+
+Overfull \hbox (0.36128pt too wide) in paragraph at lines 813--814
+[]\TU/Palatino(0)/b/n/10 Motivation: \TU/Palatino(0)/m/n/10 To explore whether recurrent neural networks (RNNs) can process time-based
+ []
+
+[40]
+Underfull \hbox (badness 10000) in paragraph at lines 817--818
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 826--827
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 835--836
+
+ []
+
+[41]
+Underfull \hbox (badness 10000) in paragraph at lines 844--845
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 848--849
+
+ []
+
+[42]
+Chapter 6.
+[43
+
+]
+File: images/tbto_51.png Graphic file (type bmp)
+<images/tbto_51.png>
+ [44]
+Overfull \hbox (64.69307pt too wide) in paragraph at lines 909--910
+[]\TU/Palatino(0)/m/n/10 Based on the words, express the probability function $\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 i; w[]; :::; w[]\OT1/cmr/m/n/10 ) = \OML/cmm/m/it/10 g\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 i; C\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 w[]; :::; C\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 w[]\OT1/cmr/m/n/10 )))$\TU/Palatino(0)/m/n/10 . 
+ []
+
+[45]
+Overfull \hbox (12.421pt too wide) in paragraph at lines 926--928
+\TU/Palatino(0)/m/n/10 Here, $\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 k\OT1/cmr/m/n/10 )$ \TU/Palatino(0)/m/n/10 represents the feature vector of the word $\OML/cmm/m/it/10 k$ \TU/Palatino(0)/m/n/10 positions away, and is an $\OML/cmm/m/it/10 m$\TU/Palatino(0)/m/n/10 -dimensional
+ []
+
+[46] [47]
+Chapter 7.
+[48
+
+] [49]
+Underfull \hbox (badness 10000) in paragraph at lines 1028--1030
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1040--1042
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1058--1060
+
+ []
+
+[50] [51]
+Chapter 8.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1069--1071
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1072--1074
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1075--1076
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1077--1079
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1080--1082
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1083--1085
+
+ []
+
+[52
+
+] [53] (./publication.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+ ***********
+
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 7269 strings out of 474773
+ 164147 string characters out of 5757724
+ 1934839 words of memory out of 5000000
+ 29281 multiletter control sequences out of 15000+600000
+ 566198 words of font info for 98 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 79i,17n,93p,1102b,420s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on publication.pdf (55 pages).

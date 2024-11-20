@@ -1,0 +1,10 @@
+\contentsline {part}{I\hspace {1em}Basic Models}{2}{}%
+\contentsline {chapter}{\numberline {1}The Earliest Neural Network: MP Model}{3}{}%
+\contentsline {section}{\numberline {1.1}Introduction}{3}{}%
+\contentsline {chapter}{\numberline {2}The First Intelligent Machine: Perceptron}{13}{}%
+\contentsline {chapter}{\numberline {3}Back-propagation}{22}{}%
+\contentsline {chapter}{\numberline {4}Cognitron: The Concept of Vision}{29}{}%
+\contentsline {chapter}{\numberline {5}Modeling Recurrence: Elman Network}{39}{}%
+\contentsline {chapter}{\numberline {6}Modeling Language: NPLM}{43}{}%
+\contentsline {chapter}{\numberline {7}Upper Limit of Neural Networks: An Universal Approximator}{48}{}%
+\contentsline {chapter}{\numberline {8}Afterwords}{52}{}%
